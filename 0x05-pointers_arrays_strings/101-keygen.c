@@ -35,4 +35,4 @@ int main(void)
 	{
 		printf("%c", password[j]);
 	}
-	return
+	return (0);
